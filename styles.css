@@ -5,7 +5,7 @@
 /* You can completely change the color scheme! Go to https://uigradients.com for gradient inspiration!! */
 body {
   background-color: #0000cc;
-  background: linear-gradient(45deg,  #fd746c, #ff9068);
+  background: linear-gradient(45deg,  purple , #ff9068);
   width: 80%;
   margin: auto;
 }
